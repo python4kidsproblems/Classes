@@ -1,0 +1,23 @@
+# Classes Multilevel Inheritance Practice Problems
+
+# How to use this file:
+#  Copy this to your python (.py) file, and write your code in the given space
+
+################################### Q1 ###################################
+# Make a Polygon Class, a Quadrilateral Class, a Rhombus Class and a     #
+# Square.The Quadrilateral should inherit from the Polygon Class, The    #
+# Rhombus should inherit from the Quadrilateral, the Square should       #
+# inherit from the Rhombus, like so:                                     #
+# Polygon -> Quadrilateral -> Rhombus -> Square                          #
+# The Polygon Class should have attributes color and number of sides.    #
+# Quadrilateral Class should have default value of 4 for numer of sides  #
+# and take the size of all four sides from user. It should also take 4   #
+# angles from the user.                                                  #
+# A Rhombus should take size of one side from user and set all sides of  #
+# quadrilateral equal to that one side. It should also take one angle    #
+# from the user and set the four angles accordingly.                     #
+# A square should only take one size for the side and set the angles to  #
+# 90 by default.                                                         #
+##########################################################################
+
+# your code goes here
