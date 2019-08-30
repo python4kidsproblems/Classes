@@ -1,0 +1,87 @@
+# Classes More Practice Problems
+
+# How to use this file:
+#  Copy this to your python (.py) file, and write your code in the given space
+#  the relevant text file/s is present in the same folder as this file
+
+################################### Q1 ###################################
+# You are asked to make a login system for an application. You need to   #
+# have a Login class, this class holds details of the User name and the  #
+# password. Add a getter for user name but not for password.             #
+# The User Name and password should only be able to be set by            #
+# instantiation.                                                         #
+# Add a method that asks the user to enter password and checks if the    #
+# password entered is correct. If it is wrong then print:                #
+# "Access Denied!", if it is correct then say hello to User using their  #
+# User name.                                                             #
+##########################################################################
+
+# your code goes here
+
+################################### Q1 ###################################
+# You are asked to design an online shopping cart. A shopping cart can   #
+# have many items.                                                       #
+# Firstly, you’ll implement the class Item. Item has a unique Id, a      #
+# quantity number and a name. You may assign the id and price randomly.  #
+# Take name input from user regarding the item they want to purchase.    #
+# Once a user buys an item it’s added to their shopping cart. Therefore, #
+# your class shopping cart has an items array in which all items are     #
+# being added.                                                           #
+# The user may want to reduce the number of any items from the cart, in  #
+# such a case your cart should have the functionality to decrease the    #
+# quantity of item by one by taking the item name as input from user.    #
+# Before Checkout you have to ask the user whether they want to remove   #
+# any item from cart, If the user decides to remove any item/items       #
+# remove it that item should be removed from your array of items in      #
+# Shopping Cart by taking item name as input.                            #
+#                                                                        #
+# Please Enter Your Name                                                 #
+# Sarah                                                                  #
+# Press 1 to add items to cart                                           #
+# Press 2 to remove items from cart                                      #
+# Press 3 to reduce Item quantity                                        #
+# Press 4 to checkout                                                    #
+# 1                                                                      #
+# Enter Name of Item                                                     #
+# Headphones                                                             #
+# Enter number of Headphones                                             #
+# 3                                                                      #
+# Press 1 to add items to cart                                           #
+# Press 2 to remove items from Cart                                      #
+# Press 3 to Reduce quantity of any item                                 #
+# Press 4 to checkout                                                    #
+# 1                                                                      #
+# Enter Name of Item                                                     #
+# Charger                                                                #
+# Enter Number of Charger                                                #
+# 1                                                                      #
+# Press 1 to add items to cart                                           #
+# Press 2 to remove items from cart                                      #
+# Press 3 to Reduce quantity of any item                                 #
+# Press 4 to checkout                                                    #
+# 1                                                                      #
+# Enter Name of Item                                                     #
+# Shirt                                                                  #
+# Enter Number of Shirt:                                                 #
+# 1                                                                      #
+# Press 1 to add items to cart                                           #
+# Press 2 to remove items from cart                                      #
+# Press 3 to Reduce quantity of any item                                 #
+# Press 4 to checkout                                                    #
+# 3                                                                      #
+# Which item do you want to reduce?                                      #
+# Headphones                                                             #
+# Press 1 to add items to cart                                           #
+# Press 2 to remove items from cart                                      #
+# Press 3 to Reduce quantity of any item                                 #
+# Press 4 to checkout                                                    #
+# 4                                                                      #
+# Hi Sarah Thank you for shopping                                        #
+# 1- Item Id: 54 Headphones Rs 250 x 2= Rs 500                           #
+# 2- Item Id: 22 Charger Rs 1000 x 1= Rs 1000                            #
+# 3- Item Id: 5 Shirt Rs 500 x 1= Rs 500                                 #
+# Total Bill: Rs 2000                                                    #
+##########################################################################
+
+# your code goes here
+

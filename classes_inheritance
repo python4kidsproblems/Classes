@@ -1,0 +1,36 @@
+# Classes Inheritance Practice Problems
+
+# How to use this file:
+#  Copy this to your python (.py) file, and write your code in the given space
+
+################################### Q1 ###################################
+# Make a Person Class, that has attributes (varaibles) name and age.     #
+# Make a Studnt class and a Teacher Class both on which should inherit   #
+# from Person Class (they both should be derived from Person Class).     #
+# The Student Class should additionally contain a list of subjects, that #
+# could be provided upon instantiation (in the init method) or added     #
+# later (add the option of doing either).                                #
+# The Teacher Class should additionally contain a Salary attribute       #
+# (variable) which should be provided upon instantiation.                #
+#   a. Add a method to allow user to change this salary at a later       # 
+# point, to give a wage raise or deduction.                              #
+#   b. Add a list of Student Objects that the teacher is teaching this   #
+#      year.                                                             #
+##########################################################################
+
+# your code goes here
+
+
+################################### Q2 ###################################
+# Make a Mother Class, and three Children classes. Mother should have    #
+# first name, last name, hair color, eye color and age in seperate       #
+# varaibles. These all should be provided upon instatiation.             #
+# The children should inherit from the Mother class, and also            #
+# have first name, last name, hair color, eye color and age in seperate  #
+# varaibles. They should have the same last name, hair and eye color as  #
+# as their mother, but they should have different first name and age.    #
+# Hint: The mother constructor (init) will run first, then child         #
+# child constructor will run.                                            #
+##########################################################################
+
+# your code goes here
