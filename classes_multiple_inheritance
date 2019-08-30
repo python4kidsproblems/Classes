@@ -1,0 +1,26 @@
+# Classes Multiple Inheritance Practice Problems
+
+# How to use this file:
+#  Copy this to your python (.py) file, and write your code in the given space
+
+################################### Q1 ###################################
+# Make a Person Class, a Coder Class and a Student Class. Make the       #
+# Student Class inherit from both the Person and the Coder CLasses.      #
+# The Person Class should have name, age and gender attributes.          #
+# The Coder Class should have a list of languages,                       #
+# e.g ["Python", "Java"]                                                 #
+# The student should inherit name and age attributes from Person Class   #
+# and language attributes from Coder CLass. It should also have it's     #
+# own attribute called Grade, an Int containing which class they are in. #
+# It should also have a list of Techers, and another list of Subjects.   #
+# Make getter and setter methods for all three Classes.                  #
+# Add a method that checks whether a Student knows a particular          #
+# language.                                                              #
+# Add a method that checks whether the Students Grade is above 6 or not. #
+# Add a method that checks whether the Student is taught by a particular #
+# teacher.                                                               #
+# Add a method that checks whether a Student is studying a particular    #
+# subject.                                                               #
+##########################################################################
+
+# your code goes here
