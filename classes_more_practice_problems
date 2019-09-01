@@ -18,7 +18,7 @@
 
 # your code goes here
 
-################################### Q1 ###################################
+################################### Q2 ###################################
 # You are asked to design an online shopping cart. A shopping cart can   #
 # have many items.                                                       #
 # Firstly, you’ll implement the class Item. Item has a unique Id, a      #
